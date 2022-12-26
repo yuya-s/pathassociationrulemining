@@ -1,7 +1,6 @@
 # Path association rule mining
 
-This is an implementation of path association rule mining in the following paper:\
-Yuya Sasaki, [Path association rule mining](https://arxiv.org/abs/2210.13136)
+This is an implementation of path association rule mining.
 
 The path association rule mining finds regulations of path patterns in a large single graph.
 
